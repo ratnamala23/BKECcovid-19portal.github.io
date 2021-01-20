@@ -691,7 +691,7 @@ button:hover{
 @media only screen and (min-width: 1200px) {
 	/* header */
 	#header .hamburger {
-		display: inline;
+		display: none;
 	}
 	#header .nav-list ul {
 		position: initial;
