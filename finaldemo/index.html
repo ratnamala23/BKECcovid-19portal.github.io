@@ -1,0 +1,306 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>covid portal</title>
+  <script src= 
+        "https://code.jquery.com/jquery-3.4.1.min.js"> 
+    </script>
+</head>
+<body>
+  <!-- Header -->
+  <section id="header">
+    <div class="header container">
+      <div class="nav-bar">
+        <div class="brand">
+          <a href="#hero"><h1><span>co</span>vid <span>-</span>19</h1></a>
+        </div>
+        <div class="nav-list">
+          <div class="hamburger"><div class="bar"></div></div>
+          <ul>
+            <li><a href="#hero" data-after="Home">Home</a></li>
+            <li><a href="#about" data-after="About">About</a></li>
+            <li><a href="#symptoms" data-after="symptoms">Symptoms</a></li>
+            <li><a href="#Prevention" data-after="Prevention">Prevention</a></li>
+            <li><a href="#Contact-Us" data-after="Contact-Us">Contact-Us</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Header -->
+
+
+  <!-- Hero Section  -->
+  <section id="hero">
+    <div class="hero container">
+    
+      <div>
+        <h1>Hello, <span></span></h1>
+        <h1>This is <span></span></h1>
+        <h1>Covid-19 portal <span></span></h1>
+		<a class="cta" href="corona.mp4" style="font-size:15px;">Tribute</a><a href="https://www.worldometers.info/coronavirus/" class="cta" style="margin-left: 10px;font-size:15px;">LIVE CASES</a>
+      </div>
+	  
+      </div>
+      
+  
+  </section>
+  <!-- End Hero Section  -->
+
+  <!-- About Section -->
+  <section id="about">
+    <div class="about container">
+      <div class="col-left">
+        <div class="about-img">
+          <img src="Sars.gif" alt="img">
+        </div>
+      </div>
+      <div class="col-right">
+        <h1 class="section-title"><span>About</span></h1>
+        
+        <p style="font-family: sans-serif;color:white:padding-left:40px;">Coronavirus disease (COVID-19) is an infectious disease caused by a newly discovered coronavirus.Most people infected with the COVID-19 virus will experience mild to moderate respiratory illness and recover without requiring special treatment.  Older people, and those with underlying medical problems like cardiovascular disease, diabetes, chronic respiratory disease, and cancer are more likely to develop serious illness.<br>
+          The best way to prevent and slow down transmission is to be well informed about the COVID-19 virus, the disease it causes and how it spreads. Protect yourself and others from infection by washing your hands or using an alcohol based rub frequently and not touching your face.</p>
+          
+         <p>The COVID-19 virus spreads primarily through droplets of saliva or discharge from the nose when an infected person coughs or sneezes, so it’s important that you also practice respiratory etiquette .</p>
+         <a href="3D.html" class="cta">GALLERY</a><a href="https://docs.google.com/forms/d/1zLn8FfY3T_BtbGBVytprXhClxJGkky6O7uMl-BYse48/edit" class="cta" style="margin-left: 10px;">QUIZ</a>
+         
+      </div>
+    </div>
+  </section>
+  <!-- End About Section -->
+  
+
+  <!-- symptoms Section -->
+  <section id="symptoms">
+    <div class="symptoms container">
+      <div class="symptoms-top">
+        <h1 class="section-title">symp<span>t</span>oms</h1>
+        <p>People of all ages who experience fever and/or cough associated with difficulty breathing or shortness of breath, chest pain or pressure, or loss of speech or movement should seek medical care immediately. If possible, call your health care provider, hotline or health facility first, so you can be directed to the right clinic.</p>
+      </div>
+      <div class="symptoms-bottom">
+        <div class="symptoms-item">
+          <div class="icon"><img src="cough.jpg"/></div>
+          <h2 style="color:red;font-size: 30px;font-weight: bold;">Cough</h2>
+          <p>Since coughing is one of the most common symptoms of any respiratory illness and a harmless bout of cold, it becomes all the more important to understand how COVID cough feels. </p>
+        </div>
+        <div class="symptoms-item">
+          <div class="icon"><img src="runny-nose.jpg"/></div>
+          <h2 style="color:red;font-size: 30px;font-weight: bold;">Runny-nose</h2>
+          <p>A stuffy or congested nose occurs when the tissues lining it become swollen. The problem may also include "runny nose." if it excess than it may be a symptom of covid-19</p>
+        </div>
+        <div class="symptoms-item">
+          <div class="icon"><img src="tiredness.png"/></div>
+          <h2 style="color:red;font-size: 30px;font-weight: bold;">Tiredness</h2>
+          <p>If u are suffering with Tiredness that doesn't mean you can't have COVID-19 and only experience fatigue as a symptom—it's just not common.If u have along with certain symptoms</p>
+        </div>
+        <div class="symptoms-item">
+          <div class="icon"><img src="fever.jpg"/></div>
+          <h2 style="color:red;font-size: 30px;font-weight: bold;">fever</h2>
+          <p>A fever is a common symptom of coronavirus 19. However, some people with the disease do not have a fever. A person may have different symptoms or none at all.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Symptoms Section -->
+
+
+  <!-- Prevention Section -->
+  <section id="Prevention">
+
+  <div class="main">
+     <h1 class="section-title">PREV<span>EN</span>TIONS</h1>
+
+ <!--cards1 -->
+
+<div class="card">
+
+<div class="image">
+   <img src="download.jpg">
+</div>
+<div class="title">
+ <h1>Hand Sanitizer</h1>
+</div>
+<div class="des">
+ <p style="color:darkblue;font-weight: bold;font-size: 17px;">Dont worry Sanitizer take cares use sanitizer be healthy</p>
+
+</div>
+</div>
+<!--cards2 -->
+
+
+<div class="card">
+
+<div class="image">
+   <img src="gif.gif">
+</div>
+<div class="title">
+  <h2 style="font-weight: bold;font-size: 18px;"">
+Dont touch hands to face</h2>
+</div>
+<div class="des">
+ <p style="color:darkblue;font-weight: bold;font-size: 17px;">By touching face or mouth with hands again & again causes infection</p>
+
+</div>
+</div>
+<!--cards 3-->
+
+
+<div class="card">
+
+<div class="image">
+   <img src="social.jpg">
+</div>
+<div class="title">
+ <h1>Social Distance</h1>
+</div>
+<div class="des">
+ <p style="color:darkblue;font-weight: bold;font-size: 17px;">Social distancing is staying away from people not from ur purpose</p>
+
+</div>
+</div>
+<!--cards 4-->
+
+
+
+
+
+<div class="card">
+
+<div class="image">
+   <img src="5000.jpg">
+</div>
+<div class="title">
+ <h1>
+Facemask</h1>
+</div>
+<div class="des">
+ <p style="color:darkblue;font-weight: bold;font-size: 17px;">To stay safe in the fight against COVID-19,wear a facemask</p>
+
+</div>
+</div>
+<!--cards5 -->
+
+<div class="card">
+
+<div class="image">
+   <img src="united-nations-covid-19-response-LiPIUvzwekw-unsplash (1).jpg">
+</div>
+<div class="title">
+ <h1>Wash Your Hands</h1>
+</div>
+<div class="des">
+ <p style="color:darkblue;font-weight: bold;font-size: 17px;">Your life is in your hands wash ur hands always</p>
+
+</div>
+</div>
+<!--cards6 -->
+
+<div class="card">
+
+<div class="image">
+   <img src="sss.jpg">
+</div>
+<div class="title">
+ <h1>
+Stay Home Stay Safe</h1>
+</div>
+<div class="des">
+ <p style="color:darkblue;font-weight: bold;font-size: 17px;">There is nothing like staying at home for real Healthy</p>
+
+</div>
+</div>
+<div class="card">
+
+<div class="image">
+   <img src="crowd.jpg">
+</div>
+<div class="title">
+ <h1>Avoiding Crowdy places</h1>
+</div>
+<div class="des">
+ <p style="color:darkblue;font-weight: bold;font-size: 17px;">Avoid Crowds to prevent illness Spread</p>
+
+</div>
+</div>
+<div class="card">
+
+<div class="image">
+   <img src="mask.jpg">
+</div>
+<div class="title">
+ <h1>Wear Mask</h1>
+</div>
+<div class="des">
+ <p style="color:darkblue;font-weight: bold;font-size: 17px;">Do practice to sustain with mask</p>
+
+</div>
+</div>
+</div>
+  </section>
+  <!-- End Prevention Section -->
+
+
+  <!-- Contact Section -->
+  <section id="Contact-Us">
+    <div class="Contact-Us container">
+      <div><h1 class="section-title"><span>contact-</span>Us</span></h1></div>
+      <div class="Contact-Us-items">
+        <div class="Contact-Us-item">
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/phone.png"/></div>
+          <div class="Contact-Us-info">
+            <h1>Phone</h1>
+            <h2 style="color:black; font-weight:bold;">9089479874</h2>
+            <h2 style="color:black; font-weight:bold;">7694355675</h2>
+          </div>
+        </div>
+        <div class="Contact-Us-item">
+          <div class="icon"><img src="msg.png"/></div>
+          <div class="Contact-Us-info">
+            <h1>Email</h1>
+            <h2 style="color:black; font-weight:bold;">patilashu634@gmail.com</h2>
+            <h2 style="color:black; font-weight:bold;">jajeeratnamala@gmail.com</h2>
+          </div>
+        </div>
+        <div class="Contact-Us-item">
+          <div class="icon"><img src="https://img.icons8.com/bubbles/100/000000/map-marker.png"/></div>
+          <div class="Contact-Us-info">
+            <h1>Address</h1>
+            <h2 style="color:black; font-weight:bold;">Basavakalyan</h2>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Contact Section -->
+
+  <!-- Footer -->
+  <section id="footer">
+    <div class="footer container">
+      <div class="brand"><h1><span>Ash</span>wini<span>&</span>Ratna<span>mala</span></h1></div>
+      <h2>complete covid portal</h2>
+      <div class="social-icon">
+        <div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png"/></a>
+        </div>
+        <div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/instagram-new.png"/></a>
+        </div>
+        <div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/twitter.png"/></a>
+        </div>
+        <div class="social-item">
+          <a href="#"><img src="https://img.icons8.com/bubbles/100/000000/behance.png"/></a>
+        </div>
+      </div>
+      <p>Copyright © 2020 . All rights reserved</p>
+    </div>
+  </section>
+  <!-- End Footer -->
+  <script src="./app.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
